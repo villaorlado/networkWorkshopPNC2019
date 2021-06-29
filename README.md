@@ -1,4 +1,4 @@
-# networkWorkshopPNC2019
+# Introduction to Network Analysis with Networkx
 
 Introduction to basic network measurements and working with null models in Networkx. The Jupyter notebooks are self explanatory, but you can also refer to the slides.
 
